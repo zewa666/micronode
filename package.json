@@ -1,0 +1,19 @@
+{
+  "name": "micronode",
+  "version": "0.0.1",
+  "description": "Microservice Node.JS Example",
+  "main": "service_new_order.js",
+  "dependencies": {
+    "firebase": "^1.0.17",
+    "restify": "^2.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "microservices"
+  ],
+  "author": "zewa666",
+  "license": "WTFPL"
+}
